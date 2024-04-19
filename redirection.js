@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         Redirect to UNSW Library
+// @namespace    https://github.com/Caikun-Peng/Redirect-to-UNSW-Library/blob/main/redirection.js
 // @version      1.0
 // @description  Redirect ACM, IEEE, Springer and ScienceDirect to UNSW Library.
 // @author       Caikun-Peng
