@@ -1,15 +1,16 @@
 // ==UserScript==
-// @name         Redirect to UNSW Library
-// @namespace    https://github.com/Caikun-Peng/Redirect-to-UNSW-Library/blob/main/redirection.js
-// @version      1.0
-// @description  Redirect ACM, IEEE, Springer and ScienceDirect to UNSW Library.
-// @author       Caikun-Peng
-// @match        https://dl.acm.org/*
-// @match        https://ieeexplore.ieee.org/*
-// @match        https://link.springer.com/*
-// @match        https://www.sciencedirect.com/*
-// @grant        GM_xmlhttpRequest
-// @license      MIT
+// @name            Redirect to UNSW Library
+// @namespace       https://github.com/Caikun-Peng/Redirect-to-UNSW-Library/blob/main/redirection.js
+// @version         1.1
+// @description:en  Redirect ACM, IEEE, Springer and ScienceDirect to UNSW Library.
+// @description:zh  将ACM、IEEE、Springer和ScienceDirect网站重定向至UNSW图书馆。
+// @author          Caikun-Peng
+// @match           https://dl.acm.org/*
+// @match           https://ieeexplore.ieee.org/*
+// @match           https://link.springer.com/*
+// @match           https://www.sciencedirect.com/*
+// @grant           GM_xmlhttpRequest
+// @license         MIT
 // ==/UserScript==
 
 (function(){
